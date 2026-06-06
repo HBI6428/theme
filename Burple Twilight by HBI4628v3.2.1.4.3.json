@@ -88,7 +88,7 @@
     "customOverlays": true,
     "iconpack": "rosiecord-plumpy",
     "icons": {
-      "StatusStreaming": "#6f30db",
+      "StatusStreaming": "#ff0000",
       "StatusMobileOnline": "#00FF00",
       "StatusIdle": "#FFA000",
       "StatusDND": "#FF0000",
