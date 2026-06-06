@@ -1,6 +1,6 @@
 {
   "name": "Burple Twilight",
-  "version": "3.2.0",
+  "version": "3.2.1.2",
   "description": "Based of Discord's nitro theme, Burple Twilight.",
   "authors": [
     {
@@ -73,12 +73,12 @@
     "PRIMARY_800": "#0e194f",
     "PLUM_18": "#0f1530",
     "PLUM_20": "#0f1530",
-    "BRAND_260": "#657bc4",
-    "BRAND_360": "#657bc4",
-    "BRAND_500": "#657bc4",
+    "BRAND_260": "#6666ff",
+    "BRAND_360": "#6666ff",
+    "BRAND_500": "#6666ff",
     "BRAND_560": "#FFFFFF",
-    "GREEN_360": "#667bc4",
-    "YELLOW_300": "#667bc4",
+    "GREEN_360": "#6666ff",
+    "YELLOW_300": "#6666ff",
     "WHITE_500": "#FDFFFE",
     "BLACK_500": "#101a45",
     "RED_400": "#113155"
